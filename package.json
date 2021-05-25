@@ -1,0 +1,37 @@
+{
+  "name": "learn.javascript",
+  "version": "0.0.0",
+  "description": "тесты, примеры",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uzinok@yandex.ru",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.2.1",
+    "browser-sync": "^2.26.13",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-less": "^4.0.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-posthtml": "^3.0.5",
+    "gulp-uglify-es": "^2.0.0",
+    "posthtml-include": "^1.5.0",
+    "webpack": "^5.4.0",
+    "webpack-stream": "^6.1.0"
+  },
+  "dependencies": {}
+}
